@@ -1,8 +1,8 @@
-## Hello there 👋
+## Hello there 
   
 ## About Me 
-- 👀 I am Omar
-- 💻 I’m a Mobile App Developer (Flutter)
+-  I am Omar
+-  I’m a Mobile App Developer (Flutter)
 
 ## Tech Stack 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
